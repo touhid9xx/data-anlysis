@@ -1,0 +1,8 @@
+survived,pclass,sex,sibsp,parch,embarked,class,who,adult_male,deck,embark_town,alive,alone,age_group
+0.0,3.0,male,1,0,S,Third,man,True,C,Southampton,no,False,Young Adult (19-30)
+1.0,1.0,female,0,1,C,First,woman,False,E,Cherbourg,yes,True,Adult (31-50)
+,2.0,,3,2,Q,Second,child,,G,Queenstown,,,Senior (51+)
+,,,4,5,,,,,D,,,,Child (0-12)
+,,,2,3,,,,,A,,,,Teen (13-18)
+,,,5,4,,,,,B,,,,
+,,,8,6,,,,,F,,,,
